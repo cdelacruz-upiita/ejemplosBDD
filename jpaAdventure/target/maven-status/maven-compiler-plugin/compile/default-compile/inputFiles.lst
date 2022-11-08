@@ -1,0 +1,9 @@
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\controller\SalesOrderHeaderJpaController.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\controller\exceptions\IllegalOrphanException.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\controller\SalesOrderDetailJpaController.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\controller\exceptions\NonexistentEntityException.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\jpaadventure\JpaAdventure.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\model\SalesOrderDetailPK.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\model\SalesOrderHeader.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\model\SalesOrderDetail.java
+C:\Users\CDLCS\Documents\NetBeansProjects\jpaAdventure\src\main\java\com\bdd\controller\exceptions\PreexistingEntityException.java

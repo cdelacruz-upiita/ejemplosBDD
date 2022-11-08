@@ -1,0 +1,12 @@
+com\bdd\controller\exceptions\PreexistingEntityException.class
+com\bdd\model\SalesOrderHeader_.class
+com\bdd\model\SalesOrderHeader.class
+com\bdd\model\SalesOrderDetail.class
+com\bdd\model\SalesOrderDetailPK.class
+com\bdd\controller\SalesOrderDetailJpaController.class
+com\bdd\controller\exceptions\NonexistentEntityException.class
+com\bdd\jpaadventure\JpaAdventure.class
+com\bdd\controller\exceptions\IllegalOrphanException.class
+com\bdd\model\SalesOrderDetailPK_.class
+com\bdd\model\SalesOrderDetail_.class
+com\bdd\controller\SalesOrderHeaderJpaController.class
